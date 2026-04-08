@@ -3,13 +3,15 @@ Team Name
 Nebie Coders
 
 Project Name
-[Your Project Name]
+Event Sphere
 
 Selected Track
 Web Development
 
 Selected Problem Statement (PS)
-[Problem Statement ID / Title]
+Hyper-Local Event Ticketing Startup Develop a web platform for finding,
+booking tickets to, and managing attendance at nearby college fests,
+pop-ups, and community events.
 
 Team Leader
 Name: Harsh Garg Phone: 8840066719
