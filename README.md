@@ -39,6 +39,6 @@ Typescript, React, Node.js and Express.js.
 
 Backend and Database : Firebase Firestore and Firebase Authentication.
 
-🔗 Additional Links (Optional)
+🔗 Deploy Link: https://event-sphere-5kl0.onrender.com/
 
-Presentation: [Link]
+Presentation: https://drive.google.com/drive/folders/1RxDri4OTuUNro99E3k8hrceT5mhabVZc?usp=sharing
